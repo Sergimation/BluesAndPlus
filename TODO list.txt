@@ -2,10 +2,9 @@ Foto banner
 Artistes:
 	-Walking
 	-Tota Blues Band
-	-Lluís Figueras
-	-Los Winters
+	-Lluï¿½s Figueras
 	-Tomacos
 	-
 Programa
-Actualitzar el menú de artistes per totes les pàgines
-Actualitzar la part de baix per totes les pàgines
+Actualitzar el menï¿½ de artistes per totes les pï¿½gines
+Actualitzar la part de baix per totes les pï¿½gines
