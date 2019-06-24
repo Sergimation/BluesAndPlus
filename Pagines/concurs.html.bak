@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+    <meta name="keywords" content="Lleida, blues, festival, albatarrec">
+    <title>Blues and Plus 2016</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="../layout/styles/main.css" rel="stylesheet" type="text/css" media="all">
+    <link href="../layout/styles/mediaqueries.css" rel="stylesheet" type="text/css"
+
+      media="all">
+    <!--[if lt IE 9]>
+<link href="../layout/styles/ie/ie8.css" rel="stylesheet" type="text/css" media="all"><script src="../layout/scripts/ie/css3-mediaqueries.min.js"></script><script src="../layout/scripts/ie/html5shiv.min.js"></script><![endif]-->
+    <link href="layout/scripts/responsiveslides.js-v1.53/responsiveslides.css" rel="stylesheet"
+
+      type="text/css" media="all">
+  </head>
+  <body class="">
+    <div class="wrapper row1"> <img src="../images/demo/banner18.jpg" alt=""></div>
+    <!-- ################################################################################################ -->
+    <div class="wrapper row2">
+      <nav id="topnav">
+        <ul class="clear">
+          <li><a href="../index.html">Home</a></li>
+          <li><a href="programa.html">Programa</a> </li>
+          <li><a class="drop" href="Artistes/artistas.html">Artistas</a>
+            <ul>
+              <li><a href="Artistes/artistas.html">Artistas A-Z</a></li>
+              <li><a href="Artistes/edu.html">Edu Manazas &amp; Whiskey Tren</a></li>
+              <li><a href="Artistes/fabulosas.html">Los Fabulosos Blueshakers</a></li>
+              <li><a href="Artistes/txus.html">Txus BLues &amp; Jose Bluefingers</a></li>
+              <li><a href="Artistes/velma.html">Velma Powell &amp; Bluedays</a></li>
+              <li><a href="Artistes/towels.html">White Towels Blues Band</a></li>
+            </ul>
+          </li>
+          <li><a href="prensa.html">Prensa</a> </li>
+          <li><a href="dormir.html">Dormir&amp;+</a> </li>
+          <li class="active"><a href="concurs.html">Concurso</a></li>
+          <li class="last-child"><a href="contacte.html">Contacto</a></li>
+        </ul>
+      </nav>
+    </div>
+    <!-- content -->
+    <div class="wrapper row3">
+      <div id="container">
+        <header>
+          <h2 class="blog-post-title"><a href="file:///F:/2C%C3%B2pia%20de%20rs-1200-prototype-51/Artistes/base.html#">Para
+              presentarse al concurso "Blues &amp; Plus":</a></h2>
+          <span style="font-weight: bold;">PARTICIPANTES</span><br>
+          1- Para participar será indispensable que no hayan grabado ningún
+          disco comercial, y que no tengan sello ni contrato discográfico hasta
+          la fecha de cierre de la inscripción. Sí se admiten discos
+          autoeditados, maquetas y similares.<br>
+          2- Los grupos o solistas podrán participar en el concurso
+          interpretando temas inéditos o versiones, preferentemente de blues,
+          pero también estilos fusionados y afines al blues (rock&amp;roll,
+          boogie woogie, R&amp;B, soul) con una extensión que deberá oscilar
+          entre 20 y 30 minutos.<br>
+          3- Los grupos o solistas deberán traer sus propios instrumentos.<br>
+          <br>
+          <span style="font-weight: bold;">INSCRIPCION</span><br>
+          4- Para formalizar la inscripción, cada GRUPO O SOLISTA deberá enviar
+          un mensaje a la dirección de correo
+          concurso@lleidablues.org
+          incluyendo los siguientes datos:
+          · Nombre del grupo o solista. · Nº de miembros del grupo
+          (especificando instrumentos).
+          · Breve descripción del estilo que van a interpretar, así como el
+          nombre de sus componentes, para su presentación el día del concurso.
+          · Rider
+          · Teléfono de contacto y dirección de correo email, del RESPONSABLE
+          DEL GRUPO.<br>
+          5- La fecha máxima de inscripción es el 20 de agosto de 2018
+          (incluido).<br>
+          6- La organización valorará los grupos presentados, así como la
+          viabilidad de su actuación y elegirá hasta un máximo de 3 grupos.<br>
+          7- Se comunicará via mail al responsable de cada grupo la admisión
+          antes del día 25 de agosto. El responsable del grupo debe manifestar
+          la aceptación. En caso de no estar interesados en ese momento se
+          procederá a avisar a los grupos de reserva, si los hubiere. <br>
+          <br>
+          <span style="font-weight: bold;">CONCURSO</span><br>
+          8- Los grupos o solistas elegidos deberán presentarse en el lugar del
+          concurso el día 1 de septiembre de 2018 a las 11:30 h.<br>
+          9- El orden de actuación se hará o por consenso entre los propios
+          concursantes o mediante sorteo en el mismo momento. <br>
+          10- La organización cederá el espacio donde van a actuar y el equipo
+          de sonido. <br>
+          <br>
+          <span style="font-weight: bold;">JURADO</span><br>
+          11- El jurado estará compuesto por 10 miembros, 6 de los cuales serán
+          profesionales ligados al mundo del blues y de la música (músicos
+          asistentes al festival, miembros de asociaciones de blues, periodistas
+          musicales etc) y cuatro elegidos al azar entre los asistentes.<br>
+          12- Cada miembro del jurado votará a un solo grupo.<br>
+          13- El grupo que tenga más votos será proclamado ganador.<br>
+          14-En caso de empate para el primer puesto, se pedirá a los grupos
+          afectados por esta situación que toquen un tema más y el jurado
+          emitirá otra votación. <br>
+          <span style="font-weight: bold;">PREMIOS</span><br>
+          15- El grupo elegido obtendrá como premio el poder tocar en la próxima
+          edición recibiendo por ello un importe bruto de 200, Si por cualquier
+          motivo la edición siguiente no se pudiera llegar a realizar se les
+          abonará el mismo importe al cabo de un año de la fecha del concurso.
+          El grupo ganador constará en la difusión que se hace del festival
+          (carteles, camisetas, flyers, radio, premsa y TV local etc) en la
+          próxima edición.<br>
+          También tienen como premio actuar en el festival de Blues de
+          Benicàssim (las condiciones a pactar con la organización del
+          festival).<br>
+          <br>
+          <span style="font-weight: bold;">LA PARTICIPACIÓN EN ESTE CONCURSO
+            SUPONE LA ACEPTACIÓN DE ESTAS BASES</span><br>
+        </header>
+        Mail: concurso@lleidablues.org<br>
+        <br>
+        <a href="http://www.facebook.com/LleidaBlues"><img title="facebook" src="../images/demo/facebook.png">
+          https://www.facebook.com/LleidaBlues</a>&nbsp;
+        <!-- ################################################################################################ -->
+      </div>
+    </div>
+    <!-- Footer -->
+    <div class="wrapper row2">
+      <div id="footer" class="clear">
+        <div class="one_quarter first">
+          <h2 class="footer_title">Footer Navigation</h2>
+          <nav class="footer_nav">
+            <ul class="nospace">
+              <li><a href="../index.html">Home</a></li>
+              <li><a href="programa.html">Programa</a> </li>
+              <li><a href="artistas.html">Artistas</a> </li>
+              <li><a href="prensa.html">Prensa</a> </li>
+              <li><a href="dormir.html">Dormir&amp;+</a> </li>
+              <li><a href="concurs.html">Concurso</a></li>
+              <li class="last-child"><a href="contacte.html">Contacto</a></li>
+            </ul>
+          </nav>
+        </div>
+        <div class="one_quarter">
+          <h2 class="footer_title">Sponsors</h2>
+          <ul id="ft_gallery" class="nospace spacing clear">
+            <li class="one_half first"><a href="#"><img style="width: 108px; height: 108px;"
+
+                  src="../images/Sponsors/escutpetit.jpg" alt=""></a></li>
+            <li class="one_half"><a href="#"><img style="width: 147px; height: 70px;"
+
+                  src="../images/Sponsors/diputacio.gif" alt=""></a></li>
+            <li class="one_half first"><a href="#"><img style="width: 165px; height: 68px;"
+
+                  src="../images/Sponsors/conexion_blues.gif" alt=""></a></li>
+            <li class="one_half"><a href="#"><img style="width: 150px; height: 76px;"
+
+                  src="../images/Sponsors/Logo.gif" alt=""></a></li>
+            <li class="one_third"><br>
+            </li>
+          </ul>
+        </div>
+        <!--
+        <div class="one_quarter">          <h2 class="footer_title">From Twitter</h2>          <div class="tweet-container">            <ul class="list none">              <li><strong>@<a href="#">name</a></strong> <span class="tweet_text">RT                  <span class="at">@</span><a href="#">name</a> Donec suscipit                  vehicula turpis sed lutpat Quisque vitae quam neque.</span> <span                  class="tweet_time"><a href="#">about 9 hours ago</a></span></li>              <li><strong>@<a href="#">name</a></strong> <span class="tweet_text">RT                  <span class="at">@</span><a href="#">name</a> Donec suscipit                  vehicula turpis sed lutpat Quisque vitae quam neque.</span> <span                  class="tweet_time"><a href="#">about 9 hours ago</a></span></li>              <li><strong>@<a href="#">name</a></strong> <span class="tweet_text">RT                  <span class="at">@</span><a href="#">name</a> Donec suscipit                  vehicula turpis sed lutpat Quisque vitae quam neque.</span> <span                  class="tweet_time"><a href="#">about 9 hours ago</a></span></li>              <li><strong>@<a href="#">name</a></strong> <span class="tweet_text">RT                  <span class="at">@</span><a href="#">name</a> Donec suscipit                  vehicula turpis sed lutpat Quisque vitae quam neque.</span> <span                  class="tweet_time"><a href="#">about 9 hours ago</a></span></li>            </ul>          </div>        </div>  -->
+        <div class="one_quarter">
+          <h2 class="footer_title">Sponsors</h2>
+          <ul id="ft_gallery" class="nospace spacing clear">
+            <li class="full_withd"><a href="#"><img style="width: 199px; height: 139px;"
+
+                  src="../images/Sponsors/Conciertosgratis.gif" alt=""></a></li>
+            <li class="one_half"><br>
+            </li>
+            <li class="one_third"><br>
+            </li>
+          </ul>
+        </div>
+        <div class="one_quarter"> <br>
+          <br>
+          <br>
+          <br>
+          <li class=""><a href="#"><img style="width: 240px; height: 213px;" src="../images/Sponsors/LogoComunitatBluespetit.gif"
+
+                alt=""></a></li>
+        </div>
+      </div>
+    </div>
+    <div class="wrapper row4">
+      <div id="copyright" class="clear">
+        <p class="fl_left">Copyright © 2018 - All Rights Reserved - Sergi Sales
+          Jové &amp; Eduard Sales Jové - <a href="http://www.lleidablues.org#">www.lleidablues.org</a></p>
+        <p class="fl_right">Template by <a href="http://www.os-templates.com/"
+
+            title="Free Website Templates">OS Templates</a></p>
+      </div>
+    </div>
+  </body>
+</html>

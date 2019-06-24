@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+    <meta name="keywords" content="Lleida, blues, festival, albatarrec">
+    <title>Blues and Plus 2016</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="../layout/styles/main.css" rel="stylesheet" type="text/css" media="all">
+    <link href="../layout/styles/mediaqueries.css" rel="stylesheet" type="text/css"
+
+      media="all">
+    <!--[if lt IE 9]>
+<link href="../layout/styles/ie/ie8.css" rel="stylesheet" type="text/css" media="all"><script src="../layout/scripts/ie/css3-mediaqueries.min.js"></script><script src="../layout/scripts/ie/html5shiv.min.js"></script><![endif]-->
+    <link href="layout/scripts/responsiveslides.js-v1.53/responsiveslides.css" rel="stylesheet"
+
+      type="text/css" media="all">
+  </head>
+  <body class="">
+    <div class="wrapper row1"> <img src="../images/demo/banner18.jpg"
+
+        alt=""></div>
+    <!-- ################################################################################################ -->
+    <div class="wrapper row2">
+      <nav id="topnav">
+        <ul class="clear">
+          <li><a href="../index.html">Home</a></li>
+          <li><a href="programa.html">Programa</a> </li>
+          <li><a class="drop" href="Artistes/artistas.html">Artistas</a>
+            <ul>
+              <li><a href="Artistes/artistas.html">Artistas A-Z</a></li>
+              <li><a href="Artistes/edu.html">Edu Manazas &amp; Whiskey Tren</a></li>
+              <li><a href="Artistes/fabulosas.html">Los Fabulosos Blueshakers</a></li>
+              <li><a href="Artistes/txus.html">Txus BLues &amp; Jose Bluefingers</a></li>
+              <li><a href="Artistes/velma.html">Velma Powell &amp; Bluedays</a></li>
+              <li><a href="Artistes/towels.html">White Towels Blues Band</a></li>
+            </ul>
+          </li>
+          <li><a href="prensa.html">Prensa</a> </li>
+          <li class="active"><a href="dormir.html">Dormir&amp;+</a> </li>
+          <li><a href="concurs.html">Concurso</a></li>
+          <li class="last-child"><a href="contacte.html">Contacto</a></li>
+        </ul>
+      </nav>
+    </div>
+    <!-- content -->
+    <div class="wrapper row3">
+      <div id="container">
+        <header>
+          <h2 class="blog-post-title">pARA ALOJARSE</h2>
+        </header>
+        <br>
+        <h2 class="blog-post-title"><a href="file:///F:/2C%C3%B2pia%20de%20rs-1200-prototype-51/Artistes/contacte.html#">En
+            Torrefarrera</a></h2>
+        <span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-size: 14.2399997711182px; vertical-align: baseline; font-weight: bold;">IBIS
+          STYLES HOTEL:</span><br>
+        <p style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-size: 14.2399997711182px; vertical-align: baseline;">C/
+          La Variant S N, Autovia A2 Salida 462, 25123 Torrefarera Lleida,
+          Lleida</p>
+        <p style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-size: 14.2399997711182px; vertical-align: baseline;"><span
+
+            style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-size: 14.2399997711182px; vertical-align: baseline; font-weight: bold;">Teléfono:</span><span
+
+            class="Apple-converted-space">&nbsp;</span>973 75 03 38</p>
+        <br style="box-sizing: border-box;">
+        <span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-size: 13px; vertical-align: baseline; color: rgb(110, 110, 110); font-family: Tahoma, Geneva, sans-serif; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18.2000007629395px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; float: none; display: inline !important; background-color: rgb(231, 235, 202);"></span>
+        <div class="archive-box" style="box-sizing: border-box; margin: 0px; padding: 0px 0px 40px; border-width: 0px 0px 1px; border-bottom-style: solid; border-bottom-color: rgb(213, 213, 213); font-size: 14.2399997711182px; vertical-align: baseline; color: rgb(119, 119, 119); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 24.9200000762939px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px;">
+          <h2 class="blog-post-title"><code style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-size: 24px; vertical-align: baseline;"></code><span
+
+              class="Apple-converted-space"></span><code style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-size: 24px; vertical-align: baseline;"></code><a
+
+              href="file:///F:/2C%C3%B2pia%20de%20rs-1200-prototype-51/Artistes/base.html#">En
+              Lleida</a><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-size: 14.2399997711182px; vertical-align: baseline; font-weight: bold;">
+            </span></h2>
+          <span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-size: 14.2399997711182px; vertical-align: baseline; font-weight: bold;">IBIS
+            HOTEL:</span><br>
+          <p style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-size: 14.2399997711182px; vertical-align: baseline;">C/
+            Maria Montesori 6; 25001 Lleida</p>
+          <p style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-size: 14.2399997711182px; vertical-align: baseline;"><span
+
+              style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-size: 14.2399997711182px; vertical-align: baseline; font-weight: bold;">Teléfono:</span><span
+
+              class="Apple-converted-space">&nbsp;</span>973 21 20 40</p>
+          <p style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-size: 14.2399997711182px; vertical-align: baseline;"><br
+
+              style="box-sizing: border-box;">
+          </p>
+          <p style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-size: 14.2399997711182px; vertical-align: baseline;"><span
+
+              style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-size: 14.2399997711182px; vertical-align: baseline; font-weight: bold;">IBIS
+              BUDGET:</span></p>
+          <p style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-size: 14.2399997711182px; vertical-align: baseline;">C/
+            Maria Montesori 6; 25001 Lleida</p>
+          <span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-size: 14.2399997711182px; vertical-align: baseline; font-weight: bold;">Teléfono:</span><span
+
+            class="Apple-converted-space">&nbsp;</span>973214180</div>
+        <br>
+        <header><span style="color: rgb(119, 119, 119); font-family: Roboto, sans-serif; font-size: 14.2399997711182px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 24.9200000762939px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);"><br>
+          </span></header>
+      </div>
+    </div>
+    <!-- Footer -->
+    <div class="wrapper row2">
+      <div id="footer" class="clear">
+        <div class="one_quarter first">
+          <h2 class="footer_title">Footer Navigation</h2>
+          <nav class="footer_nav">
+            <ul class="nospace">
+              <li><a href="../index.html">Home</a></li>
+              <li><a href="programa.html">Programa</a> </li>
+              <li><a href="artistas.html">Artistas</a> </li>
+              <li><a href="prensa.html">Prensa</a> </li>
+              <li><a href="dormir.html">Dormir&amp;+</a> </li>
+              <li><a href="concurs.html">Concurso</a></li>
+              <li class="last-child"><a href="contacte.html">Contacto</a></li>
+            </ul>
+          </nav>
+        </div>
+        <div class="one_quarter">
+          <h2 class="footer_title">Sponsors</h2>
+          <ul id="ft_gallery" class="nospace spacing clear">
+            <li class="one_half first"><a href="#"><img style="width: 108px; height: 108px;"
+
+                  src="../images/Sponsors/escutpetit.jpg" alt=""></a></li>
+            <li class="one_half"><a href="#"><img style="width: 147px; height: 70px;"
+
+                  src="../images/Sponsors/diputacio.gif" alt=""></a></li>
+            <li class="one_half first"><a href="#"><img style="width: 165px; height: 68px;"
+
+                  src="../images/Sponsors/conexion_blues.gif" alt=""></a></li>
+            <li class="one_half"><a href="#"><img style="width: 150px; height: 76px;"
+
+                  src="../images/Sponsors/Logo.gif" alt=""></a></li>
+            <li class="one_third"><br>
+            </li>
+          </ul>
+        </div>
+        <!--
+        <div class="one_quarter">          <h2 class="footer_title">From Twitter</h2>          <div class="tweet-container">            <ul class="list none">              <li><strong>@<a href="#">name</a></strong> <span class="tweet_text">RT                  <span class="at">@</span><a href="#">name</a> Donec suscipit                  vehicula turpis sed lutpat Quisque vitae quam neque.</span> <span                  class="tweet_time"><a href="#">about 9 hours ago</a></span></li>              <li><strong>@<a href="#">name</a></strong> <span class="tweet_text">RT                  <span class="at">@</span><a href="#">name</a> Donec suscipit                  vehicula turpis sed lutpat Quisque vitae quam neque.</span> <span                  class="tweet_time"><a href="#">about 9 hours ago</a></span></li>              <li><strong>@<a href="#">name</a></strong> <span class="tweet_text">RT                  <span class="at">@</span><a href="#">name</a> Donec suscipit                  vehicula turpis sed lutpat Quisque vitae quam neque.</span> <span                  class="tweet_time"><a href="#">about 9 hours ago</a></span></li>              <li><strong>@<a href="#">name</a></strong> <span class="tweet_text">RT                  <span class="at">@</span><a href="#">name</a> Donec suscipit                  vehicula turpis sed lutpat Quisque vitae quam neque.</span> <span                  class="tweet_time"><a href="#">about 9 hours ago</a></span></li>            </ul>          </div>        </div>  -->
+        <div class="one_quarter">
+          <h2 class="footer_title">Sponsors</h2>
+          <ul id="ft_gallery" class="nospace spacing clear">
+            
+            <li class="full_withd"><a href="#"><img style="width: 199px; height: 139px;"
+
+                  src="../images/Sponsors/Conciertosgratis.gif" alt=""></a></li>
+            <li class="one_half"><br>
+            </li>
+            <li class="one_third"><br>
+            </li>
+          </ul>
+        </div>
+        <div class="one_quarter"> <br>
+          <br>
+          <br>
+          <br>
+          <li class=""><a href="#"><img style="width: 240px; height: 213px;" src="../images/Sponsors/LogoComunitatBluespetit.gif"
+
+                alt=""></a></li>
+        </div>
+      </div>
+    </div>
+    <div class="wrapper row4">
+      <div id="copyright" class="clear">
+        <p class="fl_left">Copyright © 2018 - All Rights Reserved - Sergi Sales
+          Jové &amp; Eduard Sales Jové - <a href="http://www.lleidablues.org#">www.lleidablues.org</a></p>
+        <p class="fl_right">Template by <a href="http://www.os-templates.com/"
+
+            title="Free Website Templates">OS Templates</a></p>
+      </div>
+    </div>
+  </body>
+</html>
