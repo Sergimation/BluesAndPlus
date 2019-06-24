@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+    <meta name="keywords" content="Lleida, blues, festival, albatarrec">
+    <title>Blues and Plus 2016</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="../layout/styles/main.css" rel="stylesheet" type="text/css" media="all">
+    <link href="../layout/styles/mediaqueries.css" rel="stylesheet" type="text/css"
+      media="all">
+    <!--[if lt IE 9]>
+<link href="../layout/styles/ie/ie8.css" rel="stylesheet" type="text/css" media="all"><script src="../layout/scripts/ie/css3-mediaqueries.min.js"></script><script src="../layout/scripts/ie/html5shiv.min.js"></script><![endif]-->
+    <link href="layout/scripts/responsiveslides.js-v1.53/responsiveslides.css" rel="stylesheet"
+      type="text/css" media="all">
+  </head>
+  <body class="">
+    <div class="wrapper row1"> <img src="../images/demo/banner18.JPG" alt=""></div>
+    <!-- ################################################################################################ -->
+    <div class="wrapper row2">
+      <nav id="topnav">
+        <ul class="clear">
+          <li><a href="../index.html">Home</a></li>
+          <li class="active"><a href="programa.html">Programa</a> </li>
+          <li><a class="drop" href="Artistes/artistas.html">Artistas</a>
+            <ul>
+              <li><a href="Artistes/artistas.html">Artistas A-Z</a></li>
+              <li><a href="Artistes/edu.html">Edu Manazas &amp; Whiskey Tren</a></li>
+              <li><a href="Artistes/fabulosas.html">Los Fabulosos Blueshakers</a></li>
+              <li><a href="Artistes/txus.html">Txus BLues &amp; Jose Bluefingers</a></li>
+              <li><a href="Artistes/velma.html">Velma Powell &amp; Bluedays</a></li>
+              <li><a href="Artistes/towels.html">White Towels Blues Band</a></li>
+            </ul>
+          </li>
+          <li><a href="prensa.html">Prensa</a> </li>
+          <li><a href="dormir.html">Dormir&amp;+</a> </li>
+          <li><a href="concurs.html">Concurso</a></li>
+          <li class="last-child"><a href="contacte.html">Contacto</a></li>
+        </ul>
+      </nav>
+    </div>
+    <!-- content -->
+    <div class="wrapper row3">
+      <div id="container">
+        <!-- ################################################################################################ -->
+        <div id="gallery">
+          <section>
+            <figure>
+              <h2>Programa</h2>
+              <ul class="clear">
+                <li><a href="#"><img src="../images/demo/programa18-1.jpg" alt=""></a></li>
+              </ul>
+            </figure>
+          </section>
+          <!-- ####################################################################################################### -->
+        </div>
+        <!-- ################################################################################################ -->
+      </div>
+    </div>
+    <!-- Footer -->
+    <div class="wrapper row2">
+      <div id="footer" class="clear">
+        <div class="one_quarter first">
+          <h2 class="footer_title">Footer Navigation</h2>
+          <nav class="footer_nav">
+            <ul class="nospace">
+              <li><a href="../index.html">Home</a></li>
+              <li><a href="programa.html">Programa</a> </li>
+              <li><a href="artistas.html">Artistas</a> </li>
+              <li><a href="prensa.html">Prensa</a> </li>
+              <li><a href="dormir.html">Dormir&amp;+</a> </li>
+              <li><a href="concurs.html">Concurso</a></li>
+              <li class="last-child"><a href="contacte.html">Contacto</a></li>
+            </ul>
+          </nav>
+        </div>
+        <div class="one_quarter">
+          <h2 class="footer_title">Sponsors</h2>
+          <ul id="ft_gallery" class="nospace spacing clear">
+            <li class="one_half first"><a href="#"><img style="width: 108px; height: 108px;"
+                  src="../images/Sponsors/escutpetit.jpg" alt=""></a></li>
+            <li class="one_half"><a href="#"><img style="width: 147px; height: 70px;"
+                  src="../images/Sponsors/diputacio.gif" alt=""></a></li>
+            <li class="one_half first"><a href="#"><img style="width: 165px; height: 68px;"
+                  src="../images/Sponsors/conexion_blues.gif" alt=""></a></li>
+            <li class="one_half"><a href="#"><img style="width: 150px; height: 76px;"
+                  src="../images/Sponsors/Logo.gif" alt=""></a></li>
+            <li class="one_third"><br>
+            </li>
+          </ul>
+        </div>
+        <!--
+        <div class="one_quarter">          <h2 class="footer_title">From Twitter</h2>          <div class="tweet-container">            <ul class="list none">              <li><strong>@<a href="#">name</a></strong> <span class="tweet_text">RT                  <span class="at">@</span><a href="#">name</a> Donec suscipit                  vehicula turpis sed lutpat Quisque vitae quam neque.</span> <span                  class="tweet_time"><a href="#">about 9 hours ago</a></span></li>              <li><strong>@<a href="#">name</a></strong> <span class="tweet_text">RT                  <span class="at">@</span><a href="#">name</a> Donec suscipit                  vehicula turpis sed lutpat Quisque vitae quam neque.</span> <span                  class="tweet_time"><a href="#">about 9 hours ago</a></span></li>              <li><strong>@<a href="#">name</a></strong> <span class="tweet_text">RT                  <span class="at">@</span><a href="#">name</a> Donec suscipit                  vehicula turpis sed lutpat Quisque vitae quam neque.</span> <span                  class="tweet_time"><a href="#">about 9 hours ago</a></span></li>              <li><strong>@<a href="#">name</a></strong> <span class="tweet_text">RT                  <span class="at">@</span><a href="#">name</a> Donec suscipit                  vehicula turpis sed lutpat Quisque vitae quam neque.</span> <span                  class="tweet_time"><a href="#">about 9 hours ago</a></span></li>            </ul>          </div>        </div>  -->
+        <div class="one_quarter">
+          <h2 class="footer_title">Sponsors</h2>
+          <ul id="ft_gallery" class="nospace spacing clear">
+            <li class="full_withd"><a href="#"><img style="width: 199px; height: 139px;"
+                  src="../images/Sponsors/Conciertosgratis.gif" alt=""></a></li>
+            <li class="one_half"><br>
+            </li>
+            <li class="one_third"><br>
+            </li>
+          </ul>
+        </div>
+        <div class="one_quarter"> <br>
+          <br>
+          <br>
+          <br>
+          <li class=""><a href="#"><img style="width: 240px; height: 213px;" src="../images/Sponsors/LogoComunitatBluespetit.gif"
+                alt=""></a></li>
+        </div>
+      </div>
+    </div>
+    <div class="wrapper row4">
+      <div id="copyright" class="clear">
+        <p class="fl_left">Copyright © 2018 - All Rights Reserved - Sergi Sales
+          Jové &amp; Eduard Sales Jové - <a href="http://www.lleidablues.org#">www.lleidablues.org</a></p>
+        <p class="fl_right">Template by <a href="http://www.os-templates.com/"
+            title="Free Website Templates">OS Templates</a></p>
+      </div>
+    </div>
+  </body>
+</html>
