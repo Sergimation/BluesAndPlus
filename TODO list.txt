@@ -1,9 +1,6 @@
 Foto banner
+Cambiar fotos petites inici
 Artistes:
-	-Walking
-	-Tota Blues Band
-	-Llu�s Figueras
-	-Tomacos
 	-
 Programa
 Actualitzar el men� de artistes per totes les p�gines
