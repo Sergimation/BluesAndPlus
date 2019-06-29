@@ -1,7 +1,14 @@
 Foto banner
-Cambiar fotos petites inici
-Artistes:
-	-
 Programa
-Actualitzar el men� de artistes per totes les p�gines
+Actualitzar el men� de artistes per totes les p�gines:
+-concurs
+-contacte
+-Prensa
+-programa
+
+
 Actualitzar la part de baix per totes les p�gines
+-concurs
+-contacte
+-Prensa
+-programa
