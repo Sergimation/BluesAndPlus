@@ -1,10 +1,1 @@
-Foto banner
-Artistes:
-	-Walking
-	-Tota Blues Band
-	-Llu�s Figueras
-	-Tomacos
-	-
 Programa
-Actualitzar el men� de artistes per totes les p�gines
-Actualitzar la part de baix per totes les p�gines
