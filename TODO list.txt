@@ -1,14 +1,1 @@
-Foto banner
 Programa
-Actualitzar el men� de artistes per totes les p�gines:
--concurs
--contacte
--Prensa
--programa
-
-
-Actualitzar la part de baix per totes les p�gines
--concurs
--contacte
--Prensa
--programa
